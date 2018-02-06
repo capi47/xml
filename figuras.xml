@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <figura>
 <figuras tipo="linea recta">
+	<restangulo> 
 </figuras>
 <figuras tipo="restangulo">
 	<base>120</base>
