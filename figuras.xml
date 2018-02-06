@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<figura>
+<figuras tipo="linea recta">
+</figuras>
+<figuras tipo="restangulo">
+	<base>120</base>
+	<altura>150</altura>
+	<vertice x="150" y="400"/>
+</figuras>
+<figuras tipo="circuferencia">
+	<centro x="400" y="400"/>
+	<radio>100</radio>
+</figuras>
+
+</figura>
